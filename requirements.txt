@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+sqlalchemy
+slowapi
+python-multipart
+jinja2>=3.0
